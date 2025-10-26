@@ -166,7 +166,7 @@ export default function Home() {
         gap: "10px",
         padding: "18px 18px 18px 18px",
         background: "#2e2e4f",
-        borderTop: "1px solid #383863"
+        borderTop: "2px solid #383863"
       }}
     >
       <textarea
